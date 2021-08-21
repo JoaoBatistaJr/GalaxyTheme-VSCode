@@ -1,0 +1,29 @@
+{
+    "name": "Galaxy",
+    "displayName": "Galaxy",
+    "description": "Tema simples, com as cores do universo.",
+    "version": "1.0.0",
+    "publisher": "GalaxyTheme",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "assets/galaxy.png",
+    "contributes": {
+        "themes": [{
+            "label": "Galaxy Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Galaxy Theme-color-theme.json"
+        }]
+    },
+    "galleryBanner": {
+        "color": "#202024",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JoaoBatistaJr/GalaxyTheme-VS-Code.git"
+    }
+}
