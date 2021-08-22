@@ -2,7 +2,7 @@
     "name": "Galaxy",
     "displayName": "Galaxy",
     "description": "Tema simples, com as cores do universo.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "GalaxyTheme",
     "engines": {
         "vscode": "^1.59.0"
